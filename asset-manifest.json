@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.37cd1544.css",
+    "main.js": "/static/js/main.3a0854f6.js",
+    "static/media/Montserrat-Bold.ttf": "/static/media/Montserrat-Bold.2c155811b35513d5beaa.ttf",
+    "static/media/Montserrat-Light.ttf": "/static/media/Montserrat-Light.6fcc9263a21be961d246.ttf",
+    "static/media/Montserrat-Black.ttf": "/static/media/Montserrat-Black.08437fd0aa82576d3678.ttf",
+    "static/media/scandinavian-style.jpg": "/static/media/scandinavian-style.7e569e52bc1844851f18.jpg",
+    "index.html": "/index.html",
+    "main.37cd1544.css.map": "/static/css/main.37cd1544.css.map",
+    "main.3a0854f6.js.map": "/static/js/main.3a0854f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37cd1544.css",
+    "static/js/main.3a0854f6.js"
+  ]
+}
